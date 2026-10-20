@@ -1,0 +1,2 @@
+# assignment-1
+removing duplicate/SUM/COUNTA/AVERAGE/MIN/MAX/IF/SUMIF/COUNTIF/LEFT/RIGHT/MID
